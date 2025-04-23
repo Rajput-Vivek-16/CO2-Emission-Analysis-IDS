@@ -1,4 +1,4 @@
-# 🌍 CO₂ Emission Analysis
+# 🌍 Understanding CO₂: Emissions, Trends, and Impacts
 
 This project explores global CO₂ emissions and their relationship with energy consumption, GDP, and the warming effects of various greenhouse gases over time. Using data visualization and statistical analysis, it identifies trends, correlations, and insights into emission patterns across countries and time.
 
